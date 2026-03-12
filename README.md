@@ -1,2 +1,2 @@
 # alphapulse
-telegram bot for daily morning briefing on ivestment portfolio
+telegram bot for daily morning briefing on investment portfolio
